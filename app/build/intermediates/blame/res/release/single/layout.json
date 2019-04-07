@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_virusscan.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_virusscan.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_reducition.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_reducition.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_operatorset.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_operatorset.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_settings.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_add_blacknumber.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_add_blacknumber.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_trafficmonitoring.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_trafficmonitoring.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_applock.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_applock.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_cacheclean_list.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\item_cacheclean_list.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_lostfind.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_lostfind.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_enterpsw.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_enterpsw.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_contact_select.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_contact_select.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\setup_password_dialog.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\setup_password_dialog.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\setup_radiogroup.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\setup_radiogroup.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_app_manager.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_app_manager.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_numbelongto.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_numbelongto.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_setup4.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_setup4.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_list_contact_select.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\item_list_contact_select.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\titlebar.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_home.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_setup1.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_setup1.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_smsbackup.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_smsbackup.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_splash.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_setup2.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_setup2.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_advancetools.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_advancetools.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_applock.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\fragment_applock.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_home.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\item_home.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\ui_advancedtools_view.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\ui_advancedtools_view.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_processmanager_list.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\item_processmanager_list.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_list_blackcontact.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\item_list_blackcontact.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_list_trafficranking.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\item_list_trafficranking.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_list_applock.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\item_list_applock.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_processmanager.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_processmanager.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_cleancache.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_cleancache.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_cacheclearlist.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_cacheclearlist.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_securityphone.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_securityphone.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_appunlock.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\fragment_appunlock.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_processmanagersetting.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_processmanagersetting.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\inter_password_dialog.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\inter_password_dialog.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\ui_settings_view.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\ui_settings_view.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_spinner_operatorset.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\item_spinner_operatorset.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_virusscanspeed.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_virusscanspeed.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_setup3.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\activity_setup3.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_appmanager_list.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\layout\\item_appmanager_list.xml"
+    }
+]

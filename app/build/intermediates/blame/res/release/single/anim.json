@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\anim\\broom_animation.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\anim\\broom_animation.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\anim\\next_out.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\anim\\next_out.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\anim\\cycle_7.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\anim\\pre_out.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\anim\\pre_out.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\anim\\shake.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\anim\\cacheclean_trash_bin_animation.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\anim\\cacheclean_trash_bin_animation.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\anim\\pre_in.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\anim\\pre_in.xml"
+    },
+    {
+        "merged": "D:\\mobilesafe1\\app\\build\\intermediates\\res\\merged\\release\\anim\\next_in.xml",
+        "source": "D:\\mobilesafe1\\app\\src\\main\\res\\anim\\next_in.xml"
+    }
+]

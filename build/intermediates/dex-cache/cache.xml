@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\mobilesafe1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="1bfb41fe51bbbc58cf54c74b6b38342db519d4b9">
+        <dex dex="D:\mobilesafe1\app\build\intermediates\pre-dexed\debug\instant-run_b09a2e1774034c154a558e9a8fd8d448b0132b67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mobilesafe1\app\libs\RootTools.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="5f20254cf0ef9dd3e07c200540ec606668a713fa">
+        <dex dex="D:\mobilesafe1\app\build\intermediates\pre-dexed\debug\RootTools_9c2ed78d326094a56ff00422ecba8c6e2411d630.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\mobilesafe1\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_d2f06213b0e0593bb7dfebe82cb6a9daeacfcf05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\mobilesafe1\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_d2f06213b0e0593bb7dfebe82cb6a9daeacfcf05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mobilesafe1\app\libs\xUtils-2.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="D:\mobilesafe1\app\build\intermediates\pre-dexed\debug\xUtils-2.5.5_f42b1eeb4186ba9b3f893751fb5e6a3c937927f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mobilesafe1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\mobilesafe1\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_c8153f8a5c50f520549629677a1989e37bff1119.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mobilesafe1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="c4e7c6b09470a14c805369075b367e1e3313a5ba">
+        <dex dex="D:\mobilesafe1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a0052c12a5ed7eb9bd60521d8795c8530e383fb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mobilesafe1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\mobilesafe1\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_c8153f8a5c50f520549629677a1989e37bff1119.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mobilesafe1\app\libs\xUtils-2.5.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="D:\mobilesafe1\app\build\intermediates\pre-dexed\debug\xUtils-2.5.5_f42b1eeb4186ba9b3f893751fb5e6a3c937927f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mobilesafe1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\mobilesafe1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_d5549b5289bbfc86ebb1447c8ab30b252fdeb4a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mobilesafe1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\mobilesafe1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_d5549b5289bbfc86ebb1447c8ab30b252fdeb4a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mobilesafe1\app\libs\RootTools.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="5f20254cf0ef9dd3e07c200540ec606668a713fa">
+        <dex dex="D:\mobilesafe1\app\build\intermediates\pre-dexed\debug\RootTools_9c2ed78d326094a56ff00422ecba8c6e2411d630.jar" />
+    </item>
+
+</items>
